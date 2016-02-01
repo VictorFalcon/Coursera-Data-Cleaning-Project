@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 The source data of this experiment was obtained at:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
@@ -35,3 +36,6 @@ From the data in step 4,a tidy data set created with the average of each variabl
 dplyr package is use to write the tidy data into a text file.
 
 
+=======
+# Coursera-Data-Cleaning-Project
+>>>>>>> 30db288193d1666cae0eb7c02708cb8794df7723
